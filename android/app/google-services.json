@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892662066992",
+    "firebase_url": "https://aplearn-group14.firebaseio.com",
+    "project_id": "aplearn-group14",
+    "storage_bucket": "aplearn-group14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892662066992:android:32d5b30d43b85befeaa2f5",
+        "android_client_info": {
+          "package_name": "com.csc291.aplearnG14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892662066992-j8pc1t6cf4d8or3lsl39eiqernajlrvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACqT8mys9ixgCmZxPUaEIBXFu6hLZJagc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892662066992-j8pc1t6cf4d8or3lsl39eiqernajlrvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
